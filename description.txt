@@ -1,0 +1,26 @@
+Fractures of Penumbra is a Terraria mod which aims to add various endings/routes, biomes, enemies, bosses, items, and many more. As of now, there's only pre-hardmode content and 2 bosses that you can fight.
+Note that this mod is still being developed.
+
+This mod currently has:
+- 50+ items
+- 2 bosses
+- 1 town NPC
+- 3 enemies
+- Low Health SFX (can be turned on/off as configs)
+- Support for YABHB and Boss Checklist mod
+
+You may join this mod's Discord if you like this mod:
+https://discord.gg/A6CGHt2tTd
+
+Suggestions, reports and contribution are highly welcome!
+
+CREDITS:
+
+Sprite Artists:
+InsouciantGote and Mythriel81
+
+Coders:
+InsouciantGote
+
+Other Mod Contributors:
+Chepyl, Byte the Protogen, milk and Rovic

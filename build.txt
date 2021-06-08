@@ -1,0 +1,9 @@
+displayName = Fractures Of Penumbra
+author = InsouciantGote
+version = 0.1
+homepage = https://forums.terraria.org/index.php?threads/fractures-of-penumbra-wip.105752/
+hideCode = true
+hideResources = true
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
